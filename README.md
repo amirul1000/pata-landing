@@ -1,5 +1,8 @@
 "# pata-landing" 
 
+Pata | Responsive Bootstrap Landing Page Template
+=================================================
+
 
 Youtube Tutorial : https://youtu.be/lK61sWDZdnU
 
