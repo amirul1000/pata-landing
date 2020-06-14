@@ -1,7 +1,7 @@
 "# pata-landing" 
 
 
-Youtube Tutorial : 
+Youtube Tutorial : https://youtu.be/lK61sWDZdnU
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
